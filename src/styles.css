@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button{
+  padding:10px 15px;
+  margin: 5px;
+  background-color: teal;
+  color: white;
+  border:0;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.Title{
+  font-family:cursive;
+  color:tomato
+}
